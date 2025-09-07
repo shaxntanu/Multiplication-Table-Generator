@@ -1,13 +1,11 @@
-##Multiplication Table Maker
-This is a beginner-friendly C program that generates a multiplication table for any number provided by the user. It prints the table up to 10 and showcases formatted multiplication steps.
+Multiplication Table Maker
+A simple, interactive C program to generate the multiplication table for any number up to a user-specified limit.
 
-#Features
-Welcomes the user with an introductory message.
+Features
+User Input: Prompts for the number and the upper limit for the table.
 
-Asks for a number input from the user.
+Dynamic Table: Prints the multiplication table from 1 to your chosen limit.
 
-Prints the multiplication table of the given number up to 10.
+Beginner-Friendly: Easy to read, compile, and use.
 
-Displays a closing thank-you note.
-
-Written in clean and simple C code, making it easy for beginners to understand.
+Credits: Made by Shantanu.
